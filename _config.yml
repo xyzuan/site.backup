@@ -1,26 +1,25 @@
 # site settings
-title: Blacksuan19
+title: Kry9toN
 subtitle:
-email: abubakaryagob@gmail.com
-description: An Android and Linux Enthusiast, JavaFX developer and a gym fanatic
+email: dhimasbagusprayoga@gmail.com
+description: User android and Linux, Owner custom rom android and custom kernel android
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author: Blacksuan19
+author: Kry9toN
 street_address:
-city: Kuala Lumpur
-state: Selangor
-zip_code: 53100
-country: Malaysia
+city: Blitar
+state: Jawa timur
+zip_code: 66155
+country: Indonesia
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-github_url: https://github.com/blacksuan19
-instagram_url: https://instagram.com/blacksuan19
-telegram_url: https://t.me/blacksuan19
-xda_url: https://forum.xda-developers.com/member.php?u=5980272
+github_url: https://github.com/kry9ton
+instagram_url: https://instagram.com/dhimasbpy
+telegram_url: https://t.me/kry9ton
 # build settings
 markdown: kramdown
 
