@@ -5,7 +5,7 @@
 }
 
 .single-chart {
-  max-width: 25%;
+  width: 25%;
   justify-content: center;
 }
 
@@ -74,9 +74,11 @@
 @media only screen and (max-width: 850px) {
   .single-chart {
     max-width: 20%;
+  .read-time {
+    margin-top: -60px;
   }
 }
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 600px) {
   .read-time {
     text-align: left;
     float: none;
@@ -92,8 +94,5 @@
   }
   .fork {
     margin-top: 20px;
-  }
-  .single-chart {
-    max-width: 20%;
   }
 }
