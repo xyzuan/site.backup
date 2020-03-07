@@ -35,14 +35,14 @@ nav-menu: true
         <div class="contact-method">
           <span class="icon alt fa-envelope"></span>
           <h3>Email</h3>
-          <a href="#">{{ xyzuan@qmail.id }}</a>
+          <a href="#">{{ site.email }}</a>
         </div>
       </section>
       <section>
         <div class="contact-method">
           <span class="icon alt fa-phone"></span>
           <h3>Phone</h3>
-          <span>{{ 085155027511 }}</span>
+          <span>{{ site.phone }}</span>
         </div>
       </section>
       <section>
@@ -51,14 +51,14 @@ nav-menu: true
           <h3>Address</h3>
           <span>
             {% if site.street_address %}
-            {{ Ds Panjerejo }}<br />
+            {{ site.street_address }}<br />
             {% endif %} {% if site.city %}
-            {{ Kec Rejotangan }}, {% endif %} {% if site.state %}
-            {{ Tulungagung }}
+            {{ site.city }}, {% endif %} {% if site.state %}
+            {{ site.state }}
             {% endif %} {% if site.zip_code %}
-            {{ 66293 }}<br />
+            {{ site.zip_code }}<br />
             {% endif %} {% if site.country %}
-            {{ Jawa Timur }}
+            {{ site.country }}
             {% endif %}
           </span>
         </div>
