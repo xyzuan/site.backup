@@ -51,14 +51,14 @@ nav-menu: true
           <h3>Address</h3>
           <span>
             {% if site.street_address %}
-            {{ site.street_address }}<br />
+            {{ Ds Panjerejo }}<br />
             {% endif %} {% if site.city %}
-            {{ site.city }}, {% endif %} {% if site.state %}
-            {{ site.state }}
+            {{ Kec Rejotangan }}, {% endif %} {% if site.state %}
+            {{ Tulungagung }}
             {% endif %} {% if site.zip_code %}
-            {{ site.zip_code }}<br />
+            {{ 66293 }}<br />
             {% endif %} {% if site.country %}
-            {{ site.country }}
+            {{ Jawa Timur }}
             {% endif %}
           </span>
         </div>
