@@ -2,6 +2,7 @@
 layout: post
 title: EvolutionX 4.1.69 Lavender Released !
 description: EvoX update is coming for lavender <3
+image: /assets/images/vlan1.png
 ---
 
 #### EvolutionX 4.1.69 Lavender
