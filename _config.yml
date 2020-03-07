@@ -1,15 +1,15 @@
 # site settings
-title: Kry9toN
+title: welcome to xyzuanscape <3
 subtitle:
-email: dhimasbagusprayoga@gmail.com
-description: User android and Linux, Owner custom rom android and custom kernel android
+email: xyzuan@qmail.id
+description: Android Enthusiast, childish boys who loved android n Linux stuff
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author: Kry9toN
-street_address:
-city: Blitar
+author: xyzuan
+street_address: Rejotangan
+city: Tulungagung
 state: Jawa timur
-zip_code: 66155
+zip_code: 66293
 country: Indonesia
 
 # homepage tiles
@@ -17,9 +17,9 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-github_url: https://github.com/kry9ton
-instagram_url: https://instagram.com/dhimasbpy
-telegram_url: https://t.me/kry9ton
+github_url: https://github.com/xyzuan
+instagram_url: https://instagram.com/jodyyuan
+telegram_url: https://t.me/xyzuan
 # build settings
 markdown: kramdown
 
