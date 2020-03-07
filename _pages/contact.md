@@ -35,14 +35,14 @@ nav-menu: true
         <div class="contact-method">
           <span class="icon alt fa-envelope"></span>
           <h3>Email</h3>
-          <a href="#">{{ site.email }}</a>
+          <a href="#">{{ xyzuan@qmail.id }}</a>
         </div>
       </section>
       <section>
         <div class="contact-method">
           <span class="icon alt fa-phone"></span>
           <h3>Phone</h3>
-          <span>{{ site.phone }}</span>
+          <span>{{ 085155027511 }}</span>
         </div>
       </section>
       <section>
