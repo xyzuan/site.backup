@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-17 yrs old , developer of Ancient.id and Lead Dev of xyzuan`ROM
+17 yrs old , Developer of Ancient.id and Lead Dev of xyzuan`ROM
