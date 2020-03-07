@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: EvolutionX 4.1.69 Lavender Released !
 description: EvoX update is coming for lavender <3
 ---
