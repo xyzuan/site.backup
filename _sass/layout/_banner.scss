@@ -3,6 +3,7 @@
 /// html5up.net | @ajlkn
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
+///
 
 /* Banner */
 
@@ -14,8 +15,7 @@
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
-  border-bottom: 0 !important;
+  background-size: cover;/  border-bottom: 0 !important;
   cursor: default;
   height: 60vh;
   margin-bottom: -3.25em;
@@ -33,7 +33,7 @@
     display: block;
     height: 100%;
     left: 0;
-    opacity: 10.85;
+    opacity: 0.0;
     position: absolute;
     top: 0;
     width: 100%;
